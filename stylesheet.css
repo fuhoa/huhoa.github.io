@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+a {
+  text-decoration: none;
+}
+header{
+  height:65px;
+  background-color:papayawhip;
+  border-bottom:dashed  3px white;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-size: cover;
+  color: palevioletred;
+  text-align:center;
+  background-color:papayawhip
+}
+
+.top-wrapper h1{
+  font-size:45px;
+  letter-spacing:5px;
+}
+
+.top-wrapper p{
+  opacity:0.8;
+}
+.content{
+  float:right
+}
+
+.content img{
+  height:400px;
+}
+
+.second-wrapper{
+  height:500px;
+  padding-bottom: 80px;
+  background-color: white;
+}
+.heading{
+  padding:60px 0px 30px 0px;
+  color:palevioletred;
+}
+
+.hobby{
+  float:left
+}
+
+.hobby-icon img{
+  height: 380px;
+}
+
+.heading2{
+  color: palevioletred;
+}
+.hobby p{
+  color: palevioletred;
+}
